@@ -220,7 +220,6 @@ namespace U35_Assingment_2
             chart1.ChartAreas[0].AxisX.Title = "time / s";
             chart1.ChartAreas[0].AxisY.Title = "Altitude / V";
             chart1.ChartAreas[0].RecalculateAxesScale();
-
         }
 
         private void savePNGToolStripMenuItem_Click(object sender, EventArgs e)
